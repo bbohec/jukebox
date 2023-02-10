@@ -1,0 +1,22 @@
+{
+  "name": "jukebox",
+  "version": "0.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bbohec/jukebox.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bbohec/jukebox/issues"
+  },
+  "homepage": "https://github.com/bbohec/jukebox#readme",
+  "devDependencies": {
+    "typescript": "^4.9.5"
+  }
+}
